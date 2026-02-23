@@ -1,0 +1,24 @@
+{
+  "name": "order-service",
+  "version": "0.0.0",
+  "description": "Order Service manages order creation, processing, and tracking within the platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boss-demo/order-service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Boss-demo/order-service/issues"
+  },
+  "homepage": "https://github.com/Boss-demo/order-service#readme",
+  "devDependencies": {
+    "semantic-release": "^25.0.3"
+  }
+}
